@@ -1,0 +1,95 @@
+{
+    "count": 20,
+    "start": 0,
+    "total": 1,
+    "subjects": [
+      {
+        "rating": {
+          "max": 10,
+          "average": 7.1,
+          "details": {
+            "1": 285,
+            "2": 1616,
+            "3": 8613,
+            "4": 8354,
+            "5": 2867
+          },
+          "stars": "35",
+          "min": 0
+        },
+        "genres": [
+          "剧情",
+          "动作"
+        ],
+        "title": "叶问4：完结篇",
+        "casts": [
+          {
+            "avatars": {
+              "small": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10695.webp",
+              "large": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10695.webp",
+              "medium": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10695.webp"
+            },
+            "name_en": "Donnie Yen",
+            "name": "甄子丹",
+            "alt": "https://movie.douban.com/celebrity/1025194/",
+            "id": "1025194"
+          },
+          {
+            "avatars": {
+              "small": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45924.webp",
+              "large": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45924.webp",
+              "medium": "https://img9.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45924.webp"
+            },
+            "name_en": "Yue Wu",
+            "name": "吴樾",
+            "alt": "https://movie.douban.com/celebrity/1314321/",
+            "id": "1314321"
+          },
+          {
+            "avatars": {
+              "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1366445006.32.webp",
+              "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1366445006.32.webp",
+              "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1366445006.32.webp"
+            },
+            "name_en": "Vanness Wu",
+            "name": "吴建豪",
+            "alt": "https://movie.douban.com/celebrity/1201063/",
+            "id": "1201063"
+          }
+        ],
+        "durations": [
+          "107分钟"
+        ],
+        "collect_count": 165129,
+        "mainland_pubdate": "2019-12-20",
+        "has_video": true,
+        "original_title": "葉問4",
+        "subtype": "movie",
+        "directors": [
+          {
+            "avatars": {
+              "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524904218.27.webp",
+              "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524904218.27.webp",
+              "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1524904218.27.webp"
+            },
+            "name_en": "Wilson Yip",
+            "name": "叶伟信",
+            "alt": "https://movie.douban.com/celebrity/1274472/",
+            "id": "1274472"
+          }
+        ],
+        "pubdates": [
+          "2019-12-20(中国大陆)"
+        ],
+        "year": "2019",
+        "images": {
+          "small": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2577437186.webp",
+          "large": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2577437186.webp",
+          "medium": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2577437186.webp"
+        },
+        "alt": "https://movie.douban.com/subject/26885074/",
+        "id": "26885074"
+      }
+    ],
+    "title": "正在上映的电影-北京"
+  }
