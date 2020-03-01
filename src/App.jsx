@@ -53,7 +53,7 @@ export default class App extends React.Component {
                     <Route path="/about" component={AboutContainer}></Route>
                 </Content>
 
-                <Footer style={{ textAlign: 'center' }}>Cj ©2018 Created by Cj</Footer>
+                <Footer style={{ textAlign: 'center' }}>Cj 2020 Created by Cj</Footer>
             </Layout>
 
         </HashRouter>
